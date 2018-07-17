@@ -1,0 +1,520 @@
+{
+    "idiomas": {
+        "es": "Español",
+        "en": "English",
+        "fr": "Français",
+        "de": "Deutsch",
+        "it": "Italiano",
+        "da": "Danés",
+        "su": "Sueco",
+        "ru": "Rumano",
+        "bu": "Búlgaro",
+        "be": "Belga",
+        "pt": "Português"
+    },
+    "login": {
+        "username": "Usuario / Username",
+        "password": "Contraseña / Password",
+        "login": "Iniciar sesión",
+        "pass_recovery": "Recuperar contraseña",
+        "registro": "Registrarme",
+        "advertencia": "Advertencia",
+        "sin_conexion": "Debes estar conectado a internet para continuar"
+    },
+    "registro": {
+        "advertencia": "Advertencia",
+        "sin_conexion": "Debes estar conectado a internet para continuar",
+        "title": "Registro de usuario",
+        "datos_cuidador": "Datos del cuidador",
+        "correcto": "Correcto",
+        "successCode": [
+            "El código de invitado es válido, asociaremos a <strong>",
+            " </strong> a tu registro."
+        ],
+        "invitation": "Ingresa el código de invitado que has recibido vía email",
+        "code": "Código de Invitado",
+        "cancel": "Cancelar",
+        "validating": "Validando código de invitado...",
+        "invalidCode": "El código que has ingresado no es válido",
+        "nombre": "Nombre / Name",
+        "apellido": "Apellido / Lastname",
+        "email": "Email",
+        "invitationLabel": "Código de Invitado",
+        "pais": "País",
+        "provincia": "Provincia",
+        "ciudad": "Ciudad",
+        "pacienteData": "Datos de Paciente",
+        "apodo": "Apodo",
+        "password": "Contraseña / Password",
+        "confirmacion_password": "Confirmar / Confirm",
+        "foto_admin": "Foto del administrador",
+        "foto": "Seleccione Foto",
+        "username": "Usuario / Username",
+        "invitados": "Invitados",
+        "next": "Siguiente",
+        "back": "Atrás",
+        "acepto": "Acepto",
+        "guardar": "Guardar",
+        "condiciones": "Al crear tu cuenta, aceptas la <a href='http://gallopintocalendar.com/Aviso_legal_GallopintoCalendar.pdf'>política de privacidad, las condiciones de uso</a> y la <a href='http://gallopintocalendar.com/Pol%C3%ADtica_de_cookies.pdf'> política de cookies</a> de Gallopinto Calendar",
+        "idioma": "Idioma / Language",
+        "error": {
+            "title": "Error",
+            "conditions": "Debes aceptar los términos y condiciones",
+            "userExists": "El usuario ya existe",
+            "default": "Ha ocurrido un error al registrar el usuario",
+            "password": "La confirmación de contraseña no coincide con la contraseña establecida",
+            "emailExists": "Lo siento, ya existe un usuario registrado con ese correo",
+            "serverError": "Ha ocurrido un error al registrar el usuario, por favor intenta más tarde"
+        },
+        "profileSelect": "Agregar foto de perfil",
+        "success": "Te has registrado correctamente",
+        "picture": "Tomar foto",
+        "gallery": "Seleccionar imagen de galería"
+    },
+    "menu": {
+        "title": "Gallopinto Calendar",
+        "inicio": "Inicio",
+        "mi_cuenta": "Mi cuenta",
+        "notificaciones": "Mensajería",
+        "calendario": "Calendario",
+        "ayuda": "Ayuda",
+        "tienda": "Tienda",
+        "temas": "Temas",
+        "about": "Acerca de Gallopinto",
+        "condiciones": "Condiciones de uso",
+        "logout": "Cerrar sesión",
+        "contacto": "Contacto",
+        "cuidadores": "Usuarios",
+        "agenda": "Agenda",
+        "video": "Vídeo demo",
+        "mis_datos": "Mi perfil",
+        "recordatorios": "Recordatorios",
+        "soporte": "Soporte",
+        "preguntas": "Preguntas más frecuentes",
+        "configuracion": "Configuración",
+        "saludos": "Saludos",
+		"creditos": "Creditos",
+		"dispositivos": "Dispositivos"
+    },
+    "creditos": {
+        "title": "Créditos"
+    },
+    "aviso_legal": {
+        "title": "Aviso legal",
+        "message": "Te invitamos a conocer nuestras <a href='http://gallopintocalendar.com/Aviso_legal_GallopintoCalendar.pdf'>Condiciones de Uso</a> y nuestra <a href='http://gallopintocalendar.com/Pol%C3%ADtica_de_cookies.pdf'>Políticas de Cookies</a>.",
+        "desarrollo": "Desarrollado por"
+    },
+    "recuperarContrasena": {
+        "title": "Recuperar contraseña",
+        "ingrese_mail": "Introduce tu email",
+        "btn_pass_reset": "Recuperar contraseña",
+        "alert": {
+            "exito": "Operación realizada",
+            "error": "Error",
+            "email_correcto": "Revisa tu correo electrónico para obtener tu nueva contraseña",
+            "email_incorrecto": "Por favor verifica tu email, es incorrecto",
+            "email_error": "Ha ocurrido un error, por favor intenta más tarde"
+        }
+    },
+    "validaciones": {
+        "despertador": "Despertador",
+        "alert_error_title": "Error",
+        "alert_all_fields": "Por favor llena todos los campos del formulario",
+        "no_logintud": "Por favor llene los campos del formulario con la longitud correspondiente",
+        "no_auth": "Por favor verifica tus credenciales",
+        "server_err": "Ha ocurrido un error, por favor intenta más tarde",
+        "validacion_min": "El campo debe tener al menos {{value}} caracteres de longitud",
+        "validacion_max": "El campo debe tener menos de {{value}} caracteres de longitud",
+        "validacion_required": "El campo es requerido",
+        "pattern_email": "Debes indicar un email válido",
+        "plataforma_incorrecta_title": "Error, el usuario se ha registrado con otra plataforma",
+		"plataforma_incorrecta_msg": "Te has registrado con el correo ",
+		"plataforma_incorrecta_msg_2": " usando la plataforma  ",
+		"plataforma_incorrecta_msg_3": " prueba de nuevo o recupera tu contraseña. ",
+        "alert_title_error": "Ha ocurrido un error",
+        "no_existe_paciente": "Su usuario no tiene ningún Senior asociado. Por favor comuníquese con el Equipo de Gallopinto Calendar.",
+		"error_clave": "La contraseña no coincide",
+		"validacion_nombre_sonido": "Ya existe un sonido con este nombre, por favor escribe otro"
+    },
+    "contacto": {
+        "title": "Contactos",
+        "buscar": "Buscar...",
+        "modalTitle": "Invitación",
+        "textInputEmail": "Introduzca el correo de",
+        "descriptionGroup": "Existen varios contactos que no tiene correo electrónico. ¿Deseas agregar el correo para enviar la invitación?",
+        "descriptionText": "El contacto",
+        "descriptionText2": "no tiene correo electrónico. ¿Deseas agregar el correo para enviar la invitación?",
+        "btn": {
+            "enviar": "Enviar",
+            "si": "Si",
+            "no": "No"
+        },
+        "alert": {
+            "title": "Invitación",
+            "textInvitacion": "¿Deseas enviar la invitación al contacto",
+            "textInvitacion2": "para unirse como cuidador?",
+            "enviadoInvitacion": "Enviando invitación",
+            "groupInvitacion": "¿Deseas enviar la invitación a los contactos seleccionados para unirse como cuidador?",
+            "exito": "Operación realizada",
+            "advertencia": "Advertencia",
+            "groupExito": "Las invitaciones fueron enviadas de forma correcta a los contactos",
+            "groupError": "Hubo problemas al enviar las invitaciones, por favor intente mas tarde",
+            "textExito": "La invitación fue enviada de forma correcta al contacto",
+            "textError": "Hubo problema al enviar la invitación, por favor intente mas tarde",
+            "groupExitoInput": "La invitación se envió de forma correcta, los contactos",
+            "groupExitoInput2": "no se envió la invitación porque no se introdujo el correo o no tenia el formato correspondiente"
+        },
+        "invitaciones": {
+            "whatsapp_msg": "Hola!, te he invitado a ser cuidador en GalloPinto Calendar, descarga la app e introduce este código de invitado: ",
+            "email_1": "Hola!, te he invitado a ser cuidador en GalloPinto Calendar, descarga la app desde el enlace: ",
+            "email_2": " e introduce este código de invitado: ",
+            "popup": "También puedes enviar el código de invitación por:",
+            "subject": "Invitación",
+            "whatsapp": "WhatsApp",
+            "email": "Email"
+        }
+    },
+    "cuidadores": {
+        "title": "Cuidadores",
+        "detalles": "Detalles",
+        "buscar": "Buscar...",
+        "tab_cuidador": "Cuidadores",
+        "tab_invitacion": "Inv. Pendientes",
+        "fecha": "Fecha invitacion",
+        "btn": {
+            "eliminar": "Eliminar cuidador",
+            "si": "Si",
+            "no": "No"
+        },
+        "alert": {
+            "exito": "Operación realizada",
+            "error": "Error!",
+            "title": "¿Estás seguro?",
+            "message": "El cuidador sera eliminado y no podrá ingresar a la aplicación",
+            "messageExito": "El cuidador ha sido eliminado correctamente'",
+            "messageError": "Hubo un error al eliminar el cuidador, por favor intente mas tarde",
+            "messageInvitacion": "La invitación sera eliminada y el usuario no podrá registrarse en la aplicación",
+            "messageExitoInvitacion": "La invitación ha sido eliminada correctamente"
+        }
+    },
+    "mensajes": {
+        "title": "Mensajería",
+        "escribirTexto": "Escribir mensaje",
+        "actualizarTexto": "¿Deseas editar el mensaje enviado?",
+        "btn": {
+            "cancelar": "Cancelar",
+            "actualizar": "Actualizar",
+            "si": "Si",
+            "no": "No"
+        },
+        "alert": {
+            "enviando": "Enviando mensaje",
+            "actualizar": "Actualizando mensaje",
+            "eliminar": "Eliminando mensaje",
+            "title": "¿Estás seguro?",
+            "message": "El mensaje sera eliminado de la bandeja y de los demás cuidadores"
+        }
+    },
+    "feed": {
+        "title": "Inicio",
+        "title2": "Eventos",
+        "btn": {
+            "aceptar": "Aceptar",
+            "cancelar": "Cancelar"
+        },
+        "alert_perfil": {
+            "completar": "Completa tu perfil",
+            "message": "Debes completar la información de tu perfil para mejorar tu experiencia con Gallopinto Calendar",
+            "option_1": "Completar perfil",
+            "option_2": "Recordarme más tarde",
+            "option_3": "No preguntar otra vez"
+        },
+        "modal": {
+            "title": "Eventos",
+            "editar": "Editar",
+            "cancelar": "Cancelar",
+            "cancel_title": "Eliminar",
+            "cancel_text": "¿Estás seguro de que quieres cancelar el evento?. \nSi es un evento repetible se eliminarán los eventos asociados para los demás días",
+            "cancel_no": "No",
+            "cancel_si": "Si, cancelar",
+            "success_title": "Éxito",
+            "success_text": "El evento ha sido cancelado"
+        },
+        "action_title": "Evento",
+        "editar_action": "Editar",
+		"cancelar_action": "Eliminar",
+		"err_actual_title":"Error",
+		"err_actual_msg": "El evento que intentas editar o eliminar ya fue sincronizado por los dispositivos senior. No es posible alterarlo",
+		"err_actual_title_edit":"Advertencia",
+		"err_actual_msg_edit": "Al modificar un evento en curso tendrás que cambiar la hora"
+    },
+    "perfil": {
+        "title": "Mi perfil",
+        "cambiar_foto": "Cambiar foto de perfil",
+        "username": "Usuario / Username",
+        "nombres": "Nombre / Name",
+        "apellidos": "Apellido / Lastname",
+        "email": "Email",
+        "apodo": "Apodo",
+        "nombre_paciente": "Nombre del Senior a tu cuidado",
+        "telefono": "Teléfono",
+        "pais": "País en que resides",
+        "provincia": "Provincia",
+        "ciudad": "Ciudad",
+        "editar": "Guardar",
+        "success_edit_title": "Operación realizada",
+        "success_edit_message": "Tus datos se han actualizado con éxito",
+        "error_edit_title": "Operación no realizada",
+        "error_edit_message": "Ha ocurrido un error, por favor intenta más tarde",
+        "select_image": "Seleccionar imagen",
+        "tomar_foto": "Tomar foto",
+        "galeria": "Abrir la galería",
+        "idioma_cuidador": "Idioma / Language",
+        "idioma_paciente": "Idioma del Senior",
+        "paciente_editado": "La configuración del Senior ha sido editada",
+        "error_title": "Error",
+		"error_image": "Hubo un error al subir la imagen, por favor vuelve a intentar",
+		"cambio_imagen_title":"Correcto",
+		"cambio_imagen_message":"Tu imagen de perfil ha sido actualizada",
+		"cambiar_pass": "Nueva contraseña",
+		"confirmar_pass":"Confirmar nueva contraseña"
+    },
+    "calendario": {
+        "titulo": "Calendario",
+        "mes": "Mes",
+        "semana": "Semana",
+        "dia": "Día",
+        "de": "de",
+        "sync": {
+            "titulo": "Calendario",
+            "text": "Sincronizar calendario",
+            "text2": "Dejar de sincronizar el calendario"
+        },
+        "modal": {
+            "title": "Eventos",
+            "editar": "Editar",
+            "cancelar": "Cancelar",
+            "cancel_title": "Eliminar",
+            "cancel_text": "¿Estás seguro de que quieres cancelar el evento?",
+            "cancel_no": "No",
+            "cancel_si": "Si, cancelar",
+            "success_title": "Éxito",
+            "success_text": "El evento ha sido cancelado"
+        },
+        "btn": {
+            "aceptar": "Aceptar",
+            "cancelar": "Cancelar",
+            "buscar": "Buscar"
+        },
+        "alert": {
+            "error_title": "Error",
+            "error_search": "Debes introducir una palabra para hacer la búsqueda",
+            "error_searchNull": "No se encontraron coincidencias dentro de los eventos",
+            "search_title": "Búsqueda",
+            "search_message": "Introduzca alguna palabra dentro del campo. Automáticamente buscara las coincidencias que encuentre dentro de los eventos."
+        }
+    },
+    "recordatorios": {
+        "title": "Recordatorios",
+        "editar": "Editar",
+        "cancelar": "Cancelar",
+        "aceptar": "Aceptar",
+        "sin_recordatorios": "No tienes recordatorios pendientes",
+        "confirm_title": "Cancelar recordatorio",
+        "confirm_text": "¿Deseas cancelar el recordatorio?",
+        "confirm_no": "No",
+        "confirm_si": "Si, cancelar",
+        "confirm_si2": "Si",
+        "success_title": "Éxito",
+        "success_message": "Recordatorio cancelado",
+        "modal": {
+            "title": "Nuevo recordatorio",
+            "fecha": "Fecha",
+            "hora": "Hora",
+            "texto": "Texto",
+            "voz": "Grabar o elegir nota de voz",
+            "guardar": "Guardar",
+            "editar": "Editar",
+            "success_edited_title": "Éxito",
+            "success_edited_message": "Recordatorio editado",
+            "success_register_title": "Éxito",
+            "success_register_message": "Recordatorio guardado",
+            "error_form": "Existen cambios",
+            "mensaje_form": "Perderás los cambios realizados ¿quieres salir?",
+            "error": "Error",
+            "error_msg_emoji": "Buena idea lo de usar emojis pero todavía no se puede. Prueba con solo texto"
+        }
+    },
+    "contact-form": {
+        "title": "Contáctanos",
+        "h1": "Estamos para ayudarte. Intentaremos responderte en menos de 48 horas.",
+        "email": "Ingresa tu email",
+        "texto": "Escribe tu mensaje",
+        "enviar": "Enviar",
+        "success_title": "Operación realizada",
+        "success_message": "Tu mensaje se ha enviado con éxito",
+        "error_title": "Error",
+        "error_message": "Por favor intenta más tarde"
+    },
+    "ayuda": {
+        "default_text": "Aquí encontrarás vídeos prácticos y respuestas a las preguntas más habituales sobre cómo puede ayudarte Gallopinto Calendar a gestionar el día a día de los más mayores y así ayudarles a ellos a ser independientes durante más tiempo.",
+        "default_video_text": "Descubre algunos de los usos que le puedes dar a Gallopinto Calendar. Lo puedes programar, por ejemplo, para que un mensaje de voz tuyo o de sus nietos le despierte por las mañanas, o como recordatorio de que en media hora llega la chica de la limpieza, o de que habéis quedado a comer a tal hora, o de que simplemente sería buen momento para comer... Irás descubriendo mil y una utilidades que le ayudarán a recordar sus citas y tareas del día a día, y a sentir a la familia y seres queridos más cerca.",
+        "default_faq_text": "A continuación, puedes encontrar las respuestas a las preguntas más habituales.",
+        "title_ayuda": "Ayuda",
+        "title_video": "Vídeos",
+        "title_faq": "Preguntas frecuentes",
+        "btn": {
+            "ver_mas_videos": "Ver más"
+        }
+    },
+    "form_event": {
+        "title": "Registrar eventos",
+        "title_edition": "Editar",
+        "icono_title": "Seleccionar icono",
+        "audio_title": "Seleccionar nota de voz",
+        "eliminar_sonido_title": "Advertencia",
+		"eliminar_sonido_mensaje": "No se puede eliminar el audio seleccionado porque está asociado a un evento futuro, intenta más tarde.",
+		"sub_tiempo_alerta":"El evento se presentará al senior cada 2 minutos dentro del tiempo de alerta que elijas",
+        "form": {
+            "fecha_evento": "Fecha del evento",
+            "hora_evento": "Hora del aviso",
+            "tiempo_alerta": "Tiempo de alerta",
+            "mensaje": "Mensaje",
+            "repetir_evento": "Repetir evento",
+            "fecha_inicio": "Fecha inicio",
+            "fecha_final": "Fecha final",
+            "indicar_dias": "Indica los días en que se repetirá",
+            "select_icono": "Selecciona un icono",
+            "grabar_audio": "Nota de voz",
+            "select_dias": "Selecciona los días en que se repetirá el evento",
+            "agregar_imagen": "Agregar fotos o imágenes",
+            "audio_default": "Audios predeterminados",
+            "audio_cuidador": "Audios Cuidador",
+            "buscar": "Buscar",
+            "nombre_audio": "Introduce el nombre del audio",
+            "momento": "Hora del evento"
+        },
+        "btn": {
+            "foto": "Selecciona foto",
+            "cancelar": "Cancelar",
+            "guardar": "Guardar",
+            "editar": "Guardar",
+            "aceptar": "Aceptar",
+            "tomar_foto": "Tomar foto",
+			"select_imagen": "Seleccionar imagen de galería",
+			"si":"Si",
+			"no":"No"
+        },
+        "alert": {
+            "guardar": "Guardando evento",
+            "guardar_audio": "Guardando audio",
+            "delete_audio": "Eliminando audio",
+            "delete_title": "¿Estás seguro?",
+            "delete_content": "El audio sera eliminado y no lo podrás utilizar en los eventos",
+            "error_title": "Error",
+            "mensaje_error": "Hubo un error al registrar el evento, por favor vuelve a intentar",
+            "error_audio": "Hubo un error al subir el audio, por favor vuelve a intentar",
+            "error_form": "Existen cambios",
+			"mensaje_form": "Perderás los cambios realizados ¿quieres salir?",
+			"warning": "Advertencia",
+			"indicar_fecha": "Debe indicar la fecha, hora y duración del evento antes de asignar un audio",
+			"evento_silente": "El evento que quieres registrar no puede tener audio porque tienes otro evento con audio que sonará en la misma fecha y hora que estás seleccionando en este. La aplicación del Senior mostrará el evento pero sin audio",
+			"max3":"Debes crear eventos con más de 3 minutos de diferencia de la hora actual"
+        }
+    },
+    "videos": {
+        "btn": {
+            "ver_mas": "Ver más",
+            "aceptar": "Aceptar"
+        }
+    },
+    "plantillas": {
+        "title": "Temas",
+        "text": "Selecciona una imagen para fondo de plantilla",
+        "success": "La plantilla ha sido actualizada correctamente!",
+        "error": "Ocurrió un error al actualizar la plantilla",
+        "btn": {
+            "guardar": "Guardar"
+        }
+    },
+    "notificaciones": {
+        "title": "Notificaciones",
+        "fecha": "Fecha: "
+    },
+    "configuracion": {
+        "title": "Configuración",
+        "modonoche": "Modo noche",
+        "horaInicio": "Hora de inicio de modo noche",
+        "horaFinal": "Hora de finalización de modo noche",
+        "guardar": "Guardar",
+        "success_title": "Operación realizada",
+        "success_msg": "La configuración ha sido guardada correctamente",
+        "error_title": "Error",
+        "error_msg": "Por favor intenta más tarde",
+        "cancelar": "Cancelar",
+        "aceptar": "Aceptar",
+        "error_form": "Existen cambios",
+        "mensaje_form": "Perderás los cambios realizados ¿quieres salir?",
+        "confirm_no": "No",
+        "confirm_si": "Si",
+        "form": {
+            "despertador": "Despertador",
+            "hora": "Indicar la hora de la alarma",
+            "repetir": "Repetir",
+            "indicar_dias": "Indica los días en que se activara",
+            "select_dias": "Selecciona los días en que se activara la alarma",
+            "activar": "Activar",
+            "audio": "Tono para la alarma"
+		},
+		"alarma_next_day_title":"Advertencia",
+		"alarma_next_day_message":"La alarma ya ha sido sincronizada en el dispositivo del senior, el nuevo valor se tomará a partir del siguiente día programado"
+    },
+    "saludos": {
+        "title": "Saludos",
+        "actuales": "Activos",
+        "listado": "Listado",
+        "morning": "Mañana (08:00)",
+        "tarde": "Tarde (13:00)",
+        "noche": "Noche (20:00)",
+        "saludos": "Saludos",
+        "predeterminados": "Predeterminados",
+        "mis_saludos": "Mis saludos",
+        "sin_saludos": "No hay saludos registrados",
+        "nuevo": "Nuevo saludo",
+        "ingresar": "Ingresa el saludo que quieres guardar",
+        "guardar": "Guardar",
+        "editar": "Editar",
+        "seleccion_momento": "Selecciona el momento de aparición del saludo",
+        "actionsheet": {
+            "titulo": "Opciones",
+            "seleccionar": "Seleccionar como saludo",
+            "cancelar": "Cancelar",
+            "editar": "Editar saludo"
+        },
+        "alerts": {
+            "exito_title": "Operación realizada",
+            "exito_message": "Su saludo ha sido guardado",
+            "error_title": "Error",
+            "error_message": "Por favor intenta más tarde"
+        }
+    },
+    "condiciones": {
+        "title": "Términos de uso"
+	},
+	"dispositivos":{
+		"title":"Dispositivos",
+		"actualizado":"Actualizado",
+		"sin_actualizar":"Sin actualizar",
+		"eliminar": "Eliminar",
+		"delete_title":"¿Seguro que quieres eliminar este dispositivo?",
+		"delete_message":"Si eliminas el dispositivo, éste ya no mostrará notificaciones al Senior",
+		"si":"Si",
+		"no":"No",
+		"success":"Operación correcta",
+		"deleted":"El dispositivo ha sido eliminado",
+		"error":"Error",
+		"error_message":"Por favor intenta más tarde",
+		"sin_devices": "Aún no tienes dispositivos",
+		"start_senior": "Inicia sesión en tu dispositivo senior"
+	}
+}

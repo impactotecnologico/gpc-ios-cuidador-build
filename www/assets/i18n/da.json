@@ -1,0 +1,522 @@
+{
+    "idiomas": {
+        "es": "Español",
+        "en": "English",
+        "fr": "Français",
+        "de": "Deutsch",
+        "it": "Italiano",
+        "da": "Danish",
+        "su": "Swedish",
+        "ru": "Romanian",
+        "bu": "Bulgarian",
+        "be": "Belgian",
+        "pt": "Português"
+    },
+    "login": {
+        "username": "Username",
+        "password": "Password",
+        "login": "Login",
+        "pass_recovery": "Password recovery",
+        "registro": "Sign up",
+        "advertencia": "warning",
+        "sin_conexion": "You must be connected to Internet in order to continue"
+    },
+    "registro": {
+        "title": "User registration",
+        "datos_cuidador": "Caregiver data",
+        "correcto": "Right",
+        "successCode": [
+            "The guest code is valid, we will associate to <strong>",
+            " </strong> to your registration"
+        ],
+        "invitation": "Enter the guest code you received via email",
+        "code": "Guest Code",
+        "cancel": "Cancel",
+        "username": "Username",
+        "validating": "Validating guest code ...",
+        "invalidCode": "The code you entered is not valid",
+        "nombre": "First name",
+        "apellido": "Last name",
+        "email": "Email",
+        "invitationLabel": "Guest Code",
+        "pais": "Country",
+        "provincia": "Province",
+        "ciudad": "City",
+        "pacienteData": "Patient Data",
+        "apodo": "Nickname",
+        "password": "Password",
+        "confirmacion_password": "Password confirmation",
+        "foto_admin": "Administrator photo",
+        "foto": "Select Photo",
+        "nombre_familiar": "Family member's name",
+        "invitados": "Guests",
+        "next": "Next",
+        "back": "Back",
+        "acepto": "I agree",
+        "guardar": "Save",
+        "condiciones": "By creating your account, you accept the <a href='http://gallopintocalendar.com/Legal_notice_GallopintoCalendar.pdf'>privacy policy, the conditions of use</a> and the <a href='http://gallopintocalendar.com/Cookies_policy.pdf'>cookie policy</a> of Gallopinto Calendar",
+        "idioma": "Language",
+        "error": {
+            "title": "Error",
+            "conditions": "You must agree to terms and conditions",
+            "userExists": "User already exists",
+            "default": "An error occurred when registering the user",
+            "password": "The password confirmation does not match the password set",
+            "emailExists": "Sorry, there is already a registered user with that email",
+            "serverError": "An error occurred while registering the user, please try later"
+        },
+        "profileSelect": "Add profile picture",
+        "success": "You have registered correctly",
+        "picture": "take a picture",
+        "gallery": "Select gallery image",
+        "advertencia": "warning",
+        "sin_conexion": "You must be connected to Internet in order to continue"
+    },
+    "menu": {
+        "title": "Gallopinto Calendar",
+        "inicio": "Home",
+        "mi_cuenta": "My account",
+        "notificaciones": "Messaging",
+        "calendario": "Calendar",
+        "ayuda": "Help",
+        "tienda": "Store",
+        "temas": "Themes",
+        "about": "About Gallopinto",
+        "condiciones": "Terms of use",
+        "logout": "Logout",
+        "contacto": "Contact",
+        "cuidadores": "Caregivers ",
+        "agenda": "Calendar",
+        "video": "Demo video",
+        "mis_datos": "My profile",
+        "recordatorios": "Reminders",
+        "soporte": "Support",
+        "preguntas": "Frequently asked questions",
+        "configuracion": "Settings",
+        "saludos": "Greetings",
+        "creditos": "Credits",
+		"dispositivos": "Devices"
+    },
+    "creditos": {
+        "title": "Credits"
+    },
+    "aviso_legal": {
+        "title": "Legal warning",
+        "message": "We invite you to know our <a href='http://gallopintocalendar.com/Legal_notice_GallopintoCalendar.pdf'>Conditions of Use</a> and our <a href='http://gallopintocalendar.com/Cookies_policy.pdf'>Cookies Policy</a>.",
+        "desarrollo": "Developed by"
+    },
+    "recuperarContrasena": {
+        "title": "Recover password",
+        "ingrese_mail": "Please enter your email address",
+        "btn_pass_reset": "Recover password",
+        "alert": {
+            "exito": "Successful operation",
+            "error": "Error",
+            "email_correcto": "Check your email to get your new password",
+            "email_incorrecto": "Please check your email, it is incorrect",
+            "email_error": "An error has occurred, please try later"
+        }
+    },
+    "validaciones": {
+        "despertador": "Wecker",
+        "alert_error_title": "Error",
+        "alert_all_fields": "Please fill all form fields",
+        "no_logintud": "Please fill in the form fields with the corresponding length",
+        "no_auth": "Please verify your credentials",
+        "server_err": "An error has occurred, please try later",
+        "validacion_min": "This field must have at least {{value}} characters",
+        "validacion_max": "This field cannot exceed the {{value}} characters",
+        "validacion_required": "The field is required",
+        "pattern_email": "You must indicate a valid email",
+		"plataforma_incorrecta_title": "Error, you have registered with another platform",
+		"plataforma_incorrecta_msg": "You have registered with the email ",
+		"plataforma_incorrecta_msg_2": " using  ",
+		"plataforma_incorrecta_msg_3": " try again or recover your password.",
+        "account_error": "We could not bring your data, try again please",
+        "alert_title_error": "An error has occurred",
+        "no_existe_paciente": "Your user does not have any associated patients. Please contact the Gallopinto Calendar Team.",
+		"error_clave": "Password does not match",
+		"validacion_nombre_sonido": "Another sound with this name is already registered, please introduce another name"
+    },
+    "contacto": {
+        "title": "Contacts",
+        "buscar": "Search ...",
+        "modalTitle": "Invitation",
+        "textInputEmail": "Enter the mail from",
+        "descriptionGroup": "There are several contacts that do not have email. Do you want to add the email to send the invitation?",
+        "descriptionText": "The contact",
+        "descriptionText2": "You do not have an email. Do you want to add the email to send the invitation?",
+        "btn": {
+            "enviar": "Send",
+            "si": "Yes",
+            "no": "No"
+        },
+        "alert": {
+            "title": "Invitation",
+            "textInvitacion": "Do you want to send the invitation to the contact",
+            "textInvitacion2": "to join as a caregiver?",
+            "enviadoInvitacion": "Sending invitation",
+            "groupInvitacion": "Do you want to send the invitation to the selected contacts to join as a caregiver?",
+            "exito": "Successful Operation ",
+            "advertencia": "Warning",
+            "groupExito": "The invitations were sent correctly to the contacts",
+            "groupError": "There were problems sending the invitations, please try later",
+            "textExito": "The invitation was sent correctly to the contact",
+            "textError": "There was a problem sending the invitation, please try later",
+            "groupExitoInput": "The invitation was sent correctly to the contacts",
+            "groupExitoInput2": "The invitation was not sent because the mail was not introduced or it did not have the corresponding format"
+        },
+        "invitaciones": {
+            "whatsapp_msg": "Hi!, I invited you to join to GalloPinto Calendar, download the app and enter this guest code: ",
+            "email_1": "Hi!, I have invited you to join to GalloPinto Calendar, download the app from this link: ",
+            "email_2": " and provide this guest code: ",
+            "popup": "You can also send the invitation code by:",
+            "whatsapp": "WhatsApp",
+            "subject": "Invitation",
+            "email": "Email"
+        }
+    },
+    "cuidadores": {
+        "title": "Caregivers",
+        "detalles": "Details",
+        "buscar": "Search ...",
+        "tab_cuidador": "Caregivers",
+        "tab_invitacion": "Pendings",
+        "fecha": "Date invitation",
+        "btn": {
+            "eliminar": "Remove Caregiver",
+            "si": "Yes",
+            "no": "No"
+        },
+        "alert": {
+            "exito": "Successful operation ",
+            "error": "Error!",
+            "title": "Are you sure? ",
+            "message": "The caregiver will be eliminated and will not be able to access the application",
+            "messageExito": "The caregiver has been removed correctly",
+            "messageError": "There was an error removing the caregiver, please try later",
+            "messageInvitacion": "The invitation will be deleted and the user will not be able to register in the application",
+            "messageExitoInvitacion": "The invitation has been successfully deleted"
+        }
+    },
+    "mensajes": {
+        "title": "Messaging",
+        "escribirTexto": "Write a message",
+        "actualizarTexto": "Do you want to edit the sent message?",
+        "btn": {
+            "cancelar": "Cancel",
+            "actualizar": "Update",
+            "si": "Yes",
+            "no": "No"
+        },
+        "alert": {
+            "enviando": "Sending message",
+            "actualizar": "Updating message",
+            "eliminar": "Removing message",
+            "title": "Are you sure?",
+            "message": "The message will be removed from the tray and from the other caregivers"
+        }
+    },
+    "feed": {
+        "title": "Home",
+        "title2": "Events",
+        "btn": {
+            "aceptar": "Accept",
+            "cancelar": "Cancel"
+        },
+        "alert_perfil": {
+            "completar": "Complete your profile",
+            "message": "You must complete your profile to improve your experience with Gallopinto Calendar",
+            "option_1": "Complete profile",
+            "option_2": "Remember me later",
+            "option_3": "Don't ask again"
+        },
+        "modal": {
+            "title": "Event",
+            "editar": "Edit event",
+            "cancelar": "Cancel",
+            "cancel_title": "Cancel event",
+            "cancel_text": "¿Sure you want to cancel this event?",
+            "cancel_no": "NO",
+            "cancel_si": "Yes",
+            "success_title": "Success",
+            "success_text": "Event canceled"
+        },
+        "action_title": "Event",
+        "editar_action": "Edit",
+		"cancelar_action": "Cancel event",
+		"err_actual_title":"Error",
+		"err_actual_msg": "This event has been already listed on the seniors device, you can't modify it.",
+		"err_actual_title_edit":"Warning",
+		"err_actual_msg_edit": "In order to modify an ongoing event you'll have to change the event time"
+    },
+    "perfil": {
+        "title": "My profile",
+        "cambiar_foto": "Change profile picture",
+        "username": "Nickname",
+        "nombres": "Name",
+        "apellidos": "Last name",
+        "email": "Email",
+        "apodo": "Nickname",
+        "nombre_paciente": "Name of the Sir in your care",
+        "telefono": "Telephone",
+        "pais": "Country where you live",
+        "provincia": "State",
+        "ciudad": "City",
+        "editar": "Edit",
+        "success_edit_title": "Success",
+        "success_edit_message": "Your data has been updated successfully",
+        "error_edit_title": "Error",
+        "error_edit_message": "An error has occurred. Please try later",
+        "select_image": "Select image",
+        "tomar_foto": "Take photo",
+        "galeria": "Open gallery",
+        "idioma_cuidador": "Language",
+        "idioma_paciente": "Sir's language",
+        "paciente_editado": "The configuration of the Sir has been edited",
+        "error_title": "Error",
+		"error_image": "There was an error uploading the photo, please try again",
+		"cambio_imagen_title":"Success",
+		"cambio_imagen_message":"Profile image updated",
+		"cambiar_pass": "Set new password",
+		"confirmar_pass":"Confirm new password"
+    },
+    "calendario": {
+        "titulo": "Calendar",
+        "mes": "Month",
+        "semana": "Week",
+        "dia": "Day",
+        "de": "of",
+        "sync": {
+            "titulo": "Calendar",
+            "text": "Synchronize calendar",
+            "text2": "Stop calendar sync"
+        },
+        "modal": {
+            "title": "Events",
+            "editar": "Edit events",
+            "cancelar": "Cancel",
+            "cancel_title": "Cancel event",
+            "cancel_text": "Are you sure you want to cancel the event?",
+            "cancel_no": "No",
+            "cancel_si": "Yes, cancel event",
+            "success_title": "Success",
+            "success_text": "The event has been canceled"
+        },
+        "btn": {
+            "aceptar": "Accept",
+            "cancelar": "Cancel",
+            "buscar": "Search"
+        },
+        "alert": {
+            "error_title": "Error",
+            "error_search": "You must enter a word to search",
+            "error_searchNull": "No matches were found within the events",
+            "search_title": "Search",
+            "search_message": "Enter a word within the field. Automatically search for matches that you find within events"
+        }
+    },
+    "recordatorios": {
+        "title": "Reminders",
+        "editar": "Edit",
+        "cancelar": "Cancel",
+        "aceptar": "Accept",
+        "sin_recordatorios": "You have no pending reminders",
+        "confirm_title": "Cancel reminder",
+        "confirm_text": "Do you want to cancel the reminder?",
+        "confirm_no": "No",
+        "confirm_si": "Yes",
+        "confirm_si2": "Yes",
+        "success_title": "Success",
+        "success_message": "Reminder canceled",
+        "modal": {
+            "title": "New reminder",
+            "fecha": "Date",
+            "hora": "Time",
+            "texto": "Text",
+            "voz": "Record or choose voice note",
+            "guardar": "Save",
+            "editar": "Edit",
+            "success_edited_title": "Success",
+            "success_edited_message": "Edited reminder",
+            "success_register_title": "Success",
+            "success_register_message": "Saved reminder",
+            "error_form": "There are changes",
+            "mensaje_form": "You will lose the changes made. Do you want to leave?",
+            "error": "Error",
+            "error_msg_emoji": "Good idea what to use emojis but still can not. Test with only text"
+        }
+    },
+    "contact-form": {
+        "title": "Contact us",
+        "h1": "We are here to help you. We will try to answer you in less than 48 hours.",
+        "email": "Your email",
+        "texto": "Your message",
+        "enviar": "Send",
+        "success_title": "Successful operation",
+        "success_message": "Your message has been sent successfully",
+        "error_title": "Error",
+        "error_message": "Please try later"
+    },
+    "ayuda": {
+        "default_text": "Here you will find practical videos and answers to the most common questions about how Gallopinto Calendar can help you manage the day-to-day life of older people and thus help them to be independent for a longer time.",
+        "default_video_text": "Discover some of the uses you can give to Gallopinto Calendar. You can program it, for example, so that a voice message from you or your grandchildren wakes you up in the morning, or as a reminder that in half an hour the girl arrives cleaning, or that you have been to eat at that time, or that it would simply be a good time to eat ... You will discover a thousand and one utilities that will help you remember your appointments and daily tasks, and feel the family and loved ones closer. ",
+        "default_faq_text": "Then you can find the answers to the most common questions",
+        "title_ayuda": "Help",
+        "title_video": "Videos",
+        "title_faq": "Frequent questions",
+        "btn": {
+            "ver_mas_videos": "See more"
+        }
+    },
+    "form_event": {
+        "title": "Register events",
+        "title_edition": "Edit events",
+        "icono_title": "Select Icon",
+        "audio_title": "Select voice note",
+        "eliminar_sonido_title": "Warning",
+		"eliminar_sonido_mensaje": "The audio file cannot be deleted because it's attached to a scheduled event. Please try later.",
+		"sub_tiempo_alerta":"The event will be presented on seniors device every 2 minutes",
+        "form": {
+            "fecha_evento": "Date of the event",
+            "hora_evento": "Notice time",
+            "tiempo_alerta": "Alert time",
+            "mensaje": "Message",
+            "repetir_evento": "Repeat Event",
+            "fecha_inicio": "Start Date",
+            "fecha_final": "Final Date",
+            "indicar_dias": "Indicate the days when it will be repeated",
+            "select_icono": "Select an icon ",
+            "grabar_audio": "Voice note",
+            "select_dias": "Select the days on which the event will be repeated",
+            "agregar_imagen": "Add photos or images",
+            "audio_default": "Default audios",
+            "audio_cuidador": "Caregiver audios",
+            "buscar": "Search",
+            "nombre_audio": "Enter the name of the audio",
+            "momento": "Time of the event"
+        },
+        "btn": {
+            "foto": "Select photo",
+            "cancelar": "Cancel",
+            "guardar": "Save",
+            "editar": "Edit",
+            "aceptar": "Accept",
+            "tomar_foto": "Take a photo ",
+			"select_imagen": "Select Gallery image",
+			"si":"Yes",
+			"no":"No"
+        },
+        "alert": {
+            "guardar": "Saving event",
+            "guardar_audio": "Saving audio",
+            "delete_audio": "Removing audio",
+            "delete_title": "Are you sure?",
+            "delete_content": "The audio will be deleted and you will not be able to use it at events",
+            "error_title": "Error",
+            "mensaje_error": "There was an error registering the event, please try again",
+            "error_audio": "There was an error uploading the audio, please try again",
+            "error_form": "There are changes",
+			"mensaje_form": "You will lose the changes made. Do you want to leave?",
+			"warning": "Warning",
+			"indicar_fecha": "You must select a date, hour and event duration before selecting an audio",
+			"evento_silente": "There's already an event for this time, your event will be registered without sound",
+			"max3": "The event cannot be within the next 3 minutes"
+        }
+    },
+    "videos": {
+        "btn": {
+            "ver_mas": "See more",
+            "aceptar": "Accept"
+        }
+    },
+    "plantillas": {
+        "title": "Themes",
+        "text": "Select an image for template background",
+        "success": "The template has been updated correctly!",
+        "error": "An error occurred while updating the template",
+        "btn": {
+            "guardar": "Save"
+        }
+    },
+    "notificaciones": {
+        "title": "Notifications",
+        "fecha": "Date: "
+    },
+    "configuracion": {
+        "title": "Settings",
+        "modonoche": "Night mode",
+        "horaInicio": "Start time of night mode",
+        "horaFinal": "End time of night mode",
+        "guardar": "Save",
+        "success_title": "Success",
+        "success_msg": "The configuration has been saved correctly",
+        "error_title": "Error",
+        "error_msg": "Please try later",
+        "cancelar": "Cancel",
+        "aceptar": "Accept",
+        "error_form": "There are changes",
+        "mensaje_form": "You will lose the changes made. Do you want to leave?",
+        "confirm_no": "No",
+        "confirm_si": "Yes",
+        "form": {
+            "despertador": "Alarm clock",
+            "hora": "Indicate the time of the alarm",
+            "repetir": "Repeat",
+            "indicar_dias": "Indicates the days when it will be activated",
+            "select_dias": "Select the days on which the alarm will be activated",
+            "activar": "Activate",
+            "audio": "Tone for the alarm"
+        },
+		"alarma_next_day_title":"Warning",
+		"alarma_next_day_message":"The alarm has been already updated in seniors device, the new value will be used on next days."
+    },
+    "saludos": {
+        "title": "Greetings",
+        "actuales": "Greetings",
+        "listado": "List",
+        "morning": "Morning (8:00 a.m.)",
+        "tarde": "Afternoon (1:00 p.m.)",
+        "noche": "Night (8:00 p.m.)",
+        "saludos": "Greetings",
+        "predeterminados": "Platform",
+        "mis_saludos": "My saved greetings",
+        "sin_saludos": "There are no registered greetings",
+        "nuevo": "New greeting",
+        "ingresar": "Enter the greeting you want to save",
+        "guardar": "Save",
+        "editar": "Edit",
+        "seleccion_momento": "Select the moment of the greeting",
+        "actionsheet": {
+            "titulo": "Options",
+            "seleccionar": "Select as greeting",
+            "cancelar": "Cancel",
+            "editar": "Edit greetings"
+        },
+        "alerts": {
+            "exito_title": "Success",
+            "exito_message": "Your greeting has been saved",
+            "error_title": "Error",
+            "error_message": "Please try later"
+        }
+    },
+    "condiciones": {
+        "title": "Use terms"
+	},
+	"dispositivos":{
+		"title":"Devices",
+		"actualizado":"Up to date",
+		"sin_actualizar":"Not updated",
+		"eliminar": "Delete",
+		"delete_title":"Are you sure?",
+		"delete_message":"If you delete this device, it will not be able to display notifications to your patient anymore.",
+		"si":"Yes",
+		"no":"No",
+		"success":"Success",
+		"deleted":"The device has been deleted",
+		"error":"Error",
+		"error_message":"Please try later",
+		"sin_devices": "You don't have any senior device registered",
+		"start_senior": "Login on your senior device"
+	}
+}
