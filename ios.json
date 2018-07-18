@@ -15,15 +15,25 @@
               "id": "config.xml"
             }
           ],
+          "NSCalendarsUsageDescription": [
+            {
+              "xml": "<string>Necesitamos tu permiso para sincronizar con tu calendario</string>",
+              "count": 1,
+              "mode": "merge",
+              "id": "config.xml"
+            }
+          ],
+          "NSCameraUsageDescription": [
+            {
+              "xml": "<string>Necesitamos tu permiso para acceder a tu camara</string>",
+              "count": 1,
+              "mode": "merge",
+              "id": "config.xml"
+            }
+          ],
           "CFBundleLocalizations": [
             {
               "xml": "<array><string>en</string><string>de</string><string>nl</string><string>fr</string><string>it</string><string>pt-BR</string></array>",
-              "count": 1
-            }
-          ],
-          "NSCalendarsUsageDescription": [
-            {
-              "xml": "<string> </string>",
               "count": 1
             }
           ],

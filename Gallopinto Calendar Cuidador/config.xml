@@ -147,6 +147,12 @@
     <edit-config file="*-Info.plist" mode="merge" target="NSMicrophoneUsageDescription">
         <string>Necesitamos tu permiso para grabar audios</string>
     </edit-config>
+    <edit-config file="*-Info.plist" mode="merge" target="NSCalendarsUsageDescription">
+        <string>Necesitamos tu permiso para sincronizar con tu calendario</string>
+    </edit-config>
+    <edit-config file="*-Info.plist" mode="merge" target="NSCameraUsageDescription">
+        <string>Necesitamos tu permiso para acceder a tu camara</string>
+    </edit-config>
     <preference name="AllowInlineMediaPlayback" value="false" />
     <preference name="BackupWebStorage" value="none" />
     <preference name="DisallowOverscroll" value="false" />
