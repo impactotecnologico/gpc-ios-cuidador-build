@@ -153,6 +153,9 @@
     <edit-config file="*-Info.plist" mode="merge" target="NSCameraUsageDescription">
         <string>Necesitamos tu permiso para acceder a tu camara</string>
     </edit-config>
+    <edit-config file="*-Info.plist" mode="merge" target="NSContactsUsageDescription">
+        <string>Necesitamos tu permiso para acceder a tu lista de contactos</string>
+    </edit-config>
     <preference name="AllowInlineMediaPlayback" value="false" />
     <preference name="BackupWebStorage" value="none" />
     <preference name="DisallowOverscroll" value="false" />

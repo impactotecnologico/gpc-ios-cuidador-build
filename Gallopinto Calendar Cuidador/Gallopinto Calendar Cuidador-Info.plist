@@ -59,7 +59,7 @@
 		</dict>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>0.0.2</string>
+	<string>0.0.9</string>
 	<key>FacebookAppID</key>
 	<string>2022807581295537</string>
 	<key>FacebookDisplayName</key>
@@ -108,6 +108,8 @@
 	<string>Necesitamos tu permiso para sincronizar con tu calendario</string>
 	<key>NSCameraUsageDescription</key>
 	<string>Necesitamos tu permiso para acceder a tu camara</string>
+	<key>NSContactsUsageDescription</key>
+	<string>Necesitamos tu permiso para acceder a tu lista de contactos</string>
 	<key>NSMainNibFile</key>
 	<string></string>
 	<key>NSMainNibFile~ipad</key>

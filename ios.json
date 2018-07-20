@@ -31,6 +31,14 @@
               "id": "config.xml"
             }
           ],
+          "NSContactsUsageDescription": [
+            {
+              "xml": "<string>Necesitamos tu permiso para acceder a tu lista de contactos</string>",
+              "count": 1,
+              "mode": "merge",
+              "id": "config.xml"
+            }
+          ],
           "CFBundleLocalizations": [
             {
               "xml": "<array><string>en</string><string>de</string><string>nl</string><string>fr</string><string>it</string><string>pt-BR</string></array>",
