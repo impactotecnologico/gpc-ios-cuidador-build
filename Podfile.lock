@@ -1,16 +1,22 @@
 PODS:
+  - AppCenter/Core (1.2.0)
+  - AppCenter/Distribute (1.2.0):
+    - AppCenter/Core
   - OneSignal (2.8.5)
 
 DEPENDENCIES:
+  - AppCenter/Distribute
   - OneSignal (= 2.8.5)
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
+    - AppCenter
     - OneSignal
 
 SPEC CHECKSUMS:
+  AppCenter: d0b68b2a7a87ac0aed78e66f36d87fd321d0a29c
   OneSignal: 42dae269c7eca517aee34963820e1eb922390031
 
-PODFILE CHECKSUM: 55adbb73133735c8e4a212aed7fda6ed78653dc0
+PODFILE CHECKSUM: 1450ad3903b7e0373b69b1800dbba13881863201
 
 COCOAPODS: 1.5.3

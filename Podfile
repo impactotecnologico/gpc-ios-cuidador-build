@@ -3,4 +3,5 @@ platform :ios, '8.0'
 target 'Gallopinto Calendar Cuidador' do
 	project 'Gallopinto Calendar Cuidador.xcodeproj'
 	pod 'OneSignal', '2.8.5'
+	pod 'AppCenter/Distribute'
 end

@@ -7,24 +7,73 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		12351407BC82CDE9340C0CA847F1DDEC /* Pods-Gallopinto Calendar Cuidador-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7FF69B3E42DCB9691A79A7FCFB2D2473 /* Pods-Gallopinto Calendar Cuidador-dummy.m */; };
+		1562D96371106116FB473C584A834CC2 /* it.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 92EC0B8A548C7AFDA8857170CAA6ED2B /* it.lproj */; };
+		1A10EB884005797A8CCB510A5EDA5B90 /* es.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 5F57AB6F102BD3E9119043281A2D162C /* es.lproj */; };
+		1DD11C7EFBD9176D4424F5FDA58D3865 /* Pods-Gallopinto Calendar Cuidador-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 7FF69B3E42DCB9691A79A7FCFB2D2473 /* Pods-Gallopinto Calendar Cuidador-dummy.m */; };
+		21229EE6849D06DF88DFD86B5866B361 /* pt.lproj in Resources */ = {isa = PBXBuildFile; fileRef = CC7AF818C9DE1F82566F2396979EBB91 /* pt.lproj */; };
+		56856D9244D6ACB811CB005868B219E7 /* ko.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 37B64279D1B899256FE18352BD018637 /* ko.lproj */; };
+		7A205718A8F6182EB196BC10ADAA3CC9 /* zh-Hant.lproj in Resources */ = {isa = PBXBuildFile; fileRef = FFD9372A11A427C19FFFC05566DB7ED5 /* zh-Hant.lproj */; };
+		8BE93C967887ADE4AD532031479A52F9 /* zh-Hans.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 05DAC9345678E93CC93C3378B7A53DF8 /* zh-Hans.lproj */; };
+		91ADF29F35B445983B9AE4C235B6B434 /* en.lproj in Resources */ = {isa = PBXBuildFile; fileRef = CD01BE1BC8B8DD4E8C3889AB0917F1E7 /* en.lproj */; };
+		A10A8C3B87CAAA65AE979E4D6602EF16 /* ru.lproj in Resources */ = {isa = PBXBuildFile; fileRef = D11BC028CD10AF0366AE78D09D89008D /* ru.lproj */; };
+		B793A6C07DB7D190EA4233D96687CF1E /* ja.lproj in Resources */ = {isa = PBXBuildFile; fileRef = AE8F88F8DDE1A5CEFC043CE1212F01D9 /* ja.lproj */; };
+		B7E22E37C75C8CD7C09DEE17C8AB8517 /* tr.lproj in Resources */ = {isa = PBXBuildFile; fileRef = A3DFF292074F3991B199E5E030B18FC8 /* tr.lproj */; };
+		BB6D819A72F0F2BB214956CECBFDF1A2 /* de.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 484B1C506A800246FFF2F84AECB4BA1D /* de.lproj */; };
+		C95DE29CA4C6C2FD333B50B9D662E60C /* cs.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 978FF35E8F864EAB9E5B62B6CF9C4706 /* cs.lproj */; };
+		D42A499A3DE659D17409B33E56622299 /* fr.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 9D52A018A82A907D386F39C1A7E50D0E /* fr.lproj */; };
+		EF9C44F9FB0440F40F2AF11DBAAEED86 /* pl.lproj in Resources */ = {isa = PBXBuildFile; fileRef = 1F4F8F480C2BD52713EBBBF50E4D89B0 /* pl.lproj */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		246BBC4E91B299496B21C595C8513DB6 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = A7D314048925F585A0FE54F729B09D3D;
+			remoteInfo = "AppCenter-AppCenterDistributeResources";
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
-		0107E81959F737611A31E5671A94C47B /* OneSignal.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OneSignal.framework; path = iOS_SDK/OneSignalSDK/Framework/OneSignal.framework; sourceTree = "<group>"; };
+		05DAC9345678E93CC93C3378B7A53DF8 /* zh-Hans.lproj */ = {isa = PBXFileReference; includeInIndex = 1; name = "zh-Hans.lproj"; path = "AppCenter-SDK-Apple/iOS/AppCenterDistributeResources.bundle/zh-Hans.lproj"; sourceTree = "<group>"; };
+		12802D857CF0282FEE69E7CEBD6C316A /* ResourceBundle-AppCenterDistributeResources-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-AppCenterDistributeResources-Info.plist"; sourceTree = "<group>"; };
+		192D598BB9B8E87275498404C121B5F6 /* libPods-Gallopinto Calendar Cuidador.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-Gallopinto Calendar Cuidador.a"; path = "libPods-Gallopinto Calendar Cuidador.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1F4F8F480C2BD52713EBBBF50E4D89B0 /* pl.lproj */ = {isa = PBXFileReference; includeInIndex = 1; name = pl.lproj; path = "AppCenter-SDK-Apple/iOS/AppCenterDistributeResources.bundle/pl.lproj"; sourceTree = "<group>"; };
 		2702C583EA025F660E29B9C7C75EFA97 /* Pods-Gallopinto Calendar Cuidador-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Gallopinto Calendar Cuidador-resources.sh"; sourceTree = "<group>"; };
 		28E80112654856166A0A5315667CB8BB /* Pods-Gallopinto Calendar Cuidador-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-Gallopinto Calendar Cuidador-acknowledgements.plist"; sourceTree = "<group>"; };
+		37B64279D1B899256FE18352BD018637 /* ko.lproj */ = {isa = PBXFileReference; includeInIndex = 1; name = ko.lproj; path = "AppCenter-SDK-Apple/iOS/AppCenterDistributeResources.bundle/ko.lproj"; sourceTree = "<group>"; };
+		430D55F6AD22EAECEE70820F165606FE /* AppCenterDistributeResources.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = AppCenterDistributeResources.bundle; path = "AppCenter-AppCenterDistributeResources.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
+		484B1C506A800246FFF2F84AECB4BA1D /* de.lproj */ = {isa = PBXFileReference; includeInIndex = 1; name = de.lproj; path = "AppCenter-SDK-Apple/iOS/AppCenterDistributeResources.bundle/de.lproj"; sourceTree = "<group>"; };
+		5F57AB6F102BD3E9119043281A2D162C /* es.lproj */ = {isa = PBXFileReference; includeInIndex = 1; name = es.lproj; path = "AppCenter-SDK-Apple/iOS/AppCenterDistributeResources.bundle/es.lproj"; sourceTree = "<group>"; };
 		7FF69B3E42DCB9691A79A7FCFB2D2473 /* Pods-Gallopinto Calendar Cuidador-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-Gallopinto Calendar Cuidador-dummy.m"; sourceTree = "<group>"; };
+		92EC0B8A548C7AFDA8857170CAA6ED2B /* it.lproj */ = {isa = PBXFileReference; includeInIndex = 1; name = it.lproj; path = "AppCenter-SDK-Apple/iOS/AppCenterDistributeResources.bundle/it.lproj"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		978FF35E8F864EAB9E5B62B6CF9C4706 /* cs.lproj */ = {isa = PBXFileReference; includeInIndex = 1; name = cs.lproj; path = "AppCenter-SDK-Apple/iOS/AppCenterDistributeResources.bundle/cs.lproj"; sourceTree = "<group>"; };
+		9D52A018A82A907D386F39C1A7E50D0E /* fr.lproj */ = {isa = PBXFileReference; includeInIndex = 1; name = fr.lproj; path = "AppCenter-SDK-Apple/iOS/AppCenterDistributeResources.bundle/fr.lproj"; sourceTree = "<group>"; };
 		A083E5E97E51539AE8B2812AE7663B93 /* Pods-Gallopinto Calendar Cuidador-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-Gallopinto Calendar Cuidador-frameworks.sh"; sourceTree = "<group>"; };
-		AB99E244E71CC33412A7E4C1E8EC57C7 /* libPods-Gallopinto Calendar Cuidador.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-Gallopinto Calendar Cuidador.a"; path = "libPods-Gallopinto Calendar Cuidador.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		A3DFF292074F3991B199E5E030B18FC8 /* tr.lproj */ = {isa = PBXFileReference; includeInIndex = 1; name = tr.lproj; path = "AppCenter-SDK-Apple/iOS/AppCenterDistributeResources.bundle/tr.lproj"; sourceTree = "<group>"; };
+		AE8F88F8DDE1A5CEFC043CE1212F01D9 /* ja.lproj */ = {isa = PBXFileReference; includeInIndex = 1; name = ja.lproj; path = "AppCenter-SDK-Apple/iOS/AppCenterDistributeResources.bundle/ja.lproj"; sourceTree = "<group>"; };
+		BCB170E7302CA1DD874CB252998869FA /* AppCenterDistribute.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenterDistribute.framework; path = "AppCenter-SDK-Apple/iOS/AppCenterDistribute.framework"; sourceTree = "<group>"; };
+		C9688015463F95541040F655090AD550 /* OneSignal.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = OneSignal.framework; path = iOS_SDK/OneSignalSDK/Framework/OneSignal.framework; sourceTree = "<group>"; };
+		CC7AF818C9DE1F82566F2396979EBB91 /* pt.lproj */ = {isa = PBXFileReference; includeInIndex = 1; name = pt.lproj; path = "AppCenter-SDK-Apple/iOS/AppCenterDistributeResources.bundle/pt.lproj"; sourceTree = "<group>"; };
+		CD01BE1BC8B8DD4E8C3889AB0917F1E7 /* en.lproj */ = {isa = PBXFileReference; includeInIndex = 1; name = en.lproj; path = "AppCenter-SDK-Apple/iOS/AppCenterDistributeResources.bundle/en.lproj"; sourceTree = "<group>"; };
+		D11BC028CD10AF0366AE78D09D89008D /* ru.lproj */ = {isa = PBXFileReference; includeInIndex = 1; name = ru.lproj; path = "AppCenter-SDK-Apple/iOS/AppCenterDistributeResources.bundle/ru.lproj"; sourceTree = "<group>"; };
 		DFDB2253F5659849B9C4415CB90608C6 /* Pods-Gallopinto Calendar Cuidador-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-Gallopinto Calendar Cuidador-acknowledgements.markdown"; sourceTree = "<group>"; };
 		E767DD138AFFF60AE4B4C12E646C882B /* Pods-Gallopinto Calendar Cuidador.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Gallopinto Calendar Cuidador.release.xcconfig"; sourceTree = "<group>"; };
+		F5D72633A02F22B17583A574EB8FB37B /* AppCenter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppCenter.framework; path = "AppCenter-SDK-Apple/iOS/AppCenter.framework"; sourceTree = "<group>"; };
 		FB6D8EC9A113DFA073F83E6F82440280 /* Pods-Gallopinto Calendar Cuidador.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-Gallopinto Calendar Cuidador.debug.xcconfig"; sourceTree = "<group>"; };
+		FFD9372A11A427C19FFFC05566DB7ED5 /* zh-Hant.lproj */ = {isa = PBXFileReference; includeInIndex = 1; name = "zh-Hant.lproj"; path = "AppCenter-SDK-Apple/iOS/AppCenterDistributeResources.bundle/zh-Hant.lproj"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		001C70AE659D5480EAF7DF5486E51F70 /* Frameworks */ = {
+		FBF7226C463F732C1A9389ADD7A6D8AF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		FFC473098E3A53F46A65EBFD669475F4 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -41,12 +90,21 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		31024DDD121568A44F4DC265C15F4D16 /* Frameworks */ = {
+		2C7888B14C2ED23A8E4E09D83C8C7DC1 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				0107E81959F737611A31E5671A94C47B /* OneSignal.framework */,
+				4A3194C2A613C0D15C6C6173D2C1B9D4 /* AppCenter */,
+				C7124CFAEF7A96F510448444A3A98253 /* OneSignal */,
 			);
-			name = Frameworks;
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		3F61EB4566865BDD475B4D9EC29ABF06 /* Core */ = {
+			isa = PBXGroup;
+			children = (
+				E829819EC3798946DDF1B883D776C1B9 /* Frameworks */,
+			);
+			name = Core;
 			sourceTree = "<group>";
 		};
 		41DE550F6B3227D39AF74431891CB8E4 /* Pods-Gallopinto Calendar Cuidador */ = {
@@ -64,12 +122,23 @@
 			path = "Target Support Files/Pods-Gallopinto Calendar Cuidador";
 			sourceTree = "<group>";
 		};
-		6202124E9D433C3EA7B1CF2F09917CA5 /* Pods */ = {
+		4A3194C2A613C0D15C6C6173D2C1B9D4 /* AppCenter */ = {
 			isa = PBXGroup;
 			children = (
-				B109A558AEC0464E1C8AD13A3517ECA8 /* OneSignal */,
+				3F61EB4566865BDD475B4D9EC29ABF06 /* Core */,
+				9AD4E70DCD350B8E4403BF3DE1C5C255 /* Distribute */,
+				DF2E4C6ECEAC791543F2E5FB752BF7DC /* Support Files */,
 			);
-			name = Pods;
+			name = AppCenter;
+			path = AppCenter;
+			sourceTree = "<group>";
+		};
+		745E9E9788639BD0FF8A359AAA4B2A82 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C9688015463F95541040F655090AD550 /* OneSignal.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
@@ -77,10 +146,48 @@
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				0F8D2E47FE03D3B91B51069F7C273AF4 /* Frameworks */,
-				6202124E9D433C3EA7B1CF2F09917CA5 /* Pods */,
-				CB6A37CDEDF564D6A75797272FB99050 /* Products */,
+				2C7888B14C2ED23A8E4E09D83C8C7DC1 /* Pods */,
+				D1074EF2807383A960C2FC2E24749DB7 /* Products */,
 				A275A55CBD79470AB59F5AF466D5F8C8 /* Targets Support Files */,
 			);
+			sourceTree = "<group>";
+		};
+		7FFA037EF56ABD4F3C5A37A9C502D539 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				978FF35E8F864EAB9E5B62B6CF9C4706 /* cs.lproj */,
+				484B1C506A800246FFF2F84AECB4BA1D /* de.lproj */,
+				CD01BE1BC8B8DD4E8C3889AB0917F1E7 /* en.lproj */,
+				5F57AB6F102BD3E9119043281A2D162C /* es.lproj */,
+				9D52A018A82A907D386F39C1A7E50D0E /* fr.lproj */,
+				92EC0B8A548C7AFDA8857170CAA6ED2B /* it.lproj */,
+				AE8F88F8DDE1A5CEFC043CE1212F01D9 /* ja.lproj */,
+				37B64279D1B899256FE18352BD018637 /* ko.lproj */,
+				1F4F8F480C2BD52713EBBBF50E4D89B0 /* pl.lproj */,
+				CC7AF818C9DE1F82566F2396979EBB91 /* pt.lproj */,
+				D11BC028CD10AF0366AE78D09D89008D /* ru.lproj */,
+				A3DFF292074F3991B199E5E030B18FC8 /* tr.lproj */,
+				05DAC9345678E93CC93C3378B7A53DF8 /* zh-Hans.lproj */,
+				FFD9372A11A427C19FFFC05566DB7ED5 /* zh-Hant.lproj */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		8AAAA70745208DF525F6428B902FADF6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				BCB170E7302CA1DD874CB252998869FA /* AppCenterDistribute.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		9AD4E70DCD350B8E4403BF3DE1C5C255 /* Distribute */ = {
+			isa = PBXGroup;
+			children = (
+				8AAAA70745208DF525F6428B902FADF6 /* Frameworks */,
+				7FFA037EF56ABD4F3C5A37A9C502D539 /* Resources */,
+			);
+			name = Distribute;
 			sourceTree = "<group>";
 		};
 		A275A55CBD79470AB59F5AF466D5F8C8 /* Targets Support Files */ = {
@@ -91,41 +198,77 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		B109A558AEC0464E1C8AD13A3517ECA8 /* OneSignal */ = {
+		C7124CFAEF7A96F510448444A3A98253 /* OneSignal */ = {
 			isa = PBXGroup;
 			children = (
-				31024DDD121568A44F4DC265C15F4D16 /* Frameworks */,
+				745E9E9788639BD0FF8A359AAA4B2A82 /* Frameworks */,
 			);
 			name = OneSignal;
 			path = OneSignal;
 			sourceTree = "<group>";
 		};
-		CB6A37CDEDF564D6A75797272FB99050 /* Products */ = {
+		D1074EF2807383A960C2FC2E24749DB7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				AB99E244E71CC33412A7E4C1E8EC57C7 /* libPods-Gallopinto Calendar Cuidador.a */,
+				430D55F6AD22EAECEE70820F165606FE /* AppCenterDistributeResources.bundle */,
+				192D598BB9B8E87275498404C121B5F6 /* libPods-Gallopinto Calendar Cuidador.a */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		DF2E4C6ECEAC791543F2E5FB752BF7DC /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				12802D857CF0282FEE69E7CEBD6C316A /* ResourceBundle-AppCenterDistributeResources-Info.plist */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/AppCenter";
+			sourceTree = "<group>";
+		};
+		E829819EC3798946DDF1B883D776C1B9 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				F5D72633A02F22B17583A574EB8FB37B /* AppCenter.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		845A8AE1A8EE9E56BFE94F10F9A528B4 /* Pods-Gallopinto Calendar Cuidador */ = {
+		3D72744E85216C01954222EC56A5BE82 /* Pods-Gallopinto Calendar Cuidador */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 16AA3EB5B1DAD02F5BBDFF09107CFDB1 /* Build configuration list for PBXNativeTarget "Pods-Gallopinto Calendar Cuidador" */;
+			buildConfigurationList = A4F8D045071371B41DC82DF61CE51E83 /* Build configuration list for PBXNativeTarget "Pods-Gallopinto Calendar Cuidador" */;
 			buildPhases = (
-				5D2951C7619B8DA90AC926DF8BCBED50 /* Sources */,
-				001C70AE659D5480EAF7DF5486E51F70 /* Frameworks */,
+				24EAEAFB8FA95BAB82AD3D55C2297054 /* Sources */,
+				FFC473098E3A53F46A65EBFD669475F4 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				C641AB3AC8BEA25E59040E2561645BC9 /* PBXTargetDependency */,
+			);
+			name = "Pods-Gallopinto Calendar Cuidador";
+			productName = "Pods-Gallopinto Calendar Cuidador";
+			productReference = 192D598BB9B8E87275498404C121B5F6 /* libPods-Gallopinto Calendar Cuidador.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		A7D314048925F585A0FE54F729B09D3D /* AppCenter-AppCenterDistributeResources */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6C822ADC178B69D4894C0033C5BE492A /* Build configuration list for PBXNativeTarget "AppCenter-AppCenterDistributeResources" */;
+			buildPhases = (
+				891C8ABD83BBAD269E93EEC78A5EBB90 /* Sources */,
+				FBF7226C463F732C1A9389ADD7A6D8AF /* Frameworks */,
+				03B20F75A35BE7AA5F1FA1441F5BB04D /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Pods-Gallopinto Calendar Cuidador";
-			productName = "Pods-Gallopinto Calendar Cuidador";
-			productReference = AB99E244E71CC33412A7E4C1E8EC57C7 /* libPods-Gallopinto Calendar Cuidador.a */;
-			productType = "com.apple.product-type.library.static";
+			name = "AppCenter-AppCenterDistributeResources";
+			productName = "AppCenter-AppCenterDistributeResources";
+			productReference = 430D55F6AD22EAECEE70820F165606FE /* AppCenterDistributeResources.bundle */;
+			productType = "com.apple.product-type.bundle";
 		};
 /* End PBXNativeTarget section */
 
@@ -144,25 +287,66 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = CB6A37CDEDF564D6A75797272FB99050 /* Products */;
+			productRefGroup = D1074EF2807383A960C2FC2E24749DB7 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				845A8AE1A8EE9E56BFE94F10F9A528B4 /* Pods-Gallopinto Calendar Cuidador */,
+				A7D314048925F585A0FE54F729B09D3D /* AppCenter-AppCenterDistributeResources */,
+				3D72744E85216C01954222EC56A5BE82 /* Pods-Gallopinto Calendar Cuidador */,
 			);
 		};
 /* End PBXProject section */
 
+/* Begin PBXResourcesBuildPhase section */
+		03B20F75A35BE7AA5F1FA1441F5BB04D /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C95DE29CA4C6C2FD333B50B9D662E60C /* cs.lproj in Resources */,
+				BB6D819A72F0F2BB214956CECBFDF1A2 /* de.lproj in Resources */,
+				91ADF29F35B445983B9AE4C235B6B434 /* en.lproj in Resources */,
+				1A10EB884005797A8CCB510A5EDA5B90 /* es.lproj in Resources */,
+				D42A499A3DE659D17409B33E56622299 /* fr.lproj in Resources */,
+				1562D96371106116FB473C584A834CC2 /* it.lproj in Resources */,
+				B793A6C07DB7D190EA4233D96687CF1E /* ja.lproj in Resources */,
+				56856D9244D6ACB811CB005868B219E7 /* ko.lproj in Resources */,
+				EF9C44F9FB0440F40F2AF11DBAAEED86 /* pl.lproj in Resources */,
+				21229EE6849D06DF88DFD86B5866B361 /* pt.lproj in Resources */,
+				A10A8C3B87CAAA65AE979E4D6602EF16 /* ru.lproj in Resources */,
+				B7E22E37C75C8CD7C09DEE17C8AB8517 /* tr.lproj in Resources */,
+				8BE93C967887ADE4AD532031479A52F9 /* zh-Hans.lproj in Resources */,
+				7A205718A8F6182EB196BC10ADAA3CC9 /* zh-Hant.lproj in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
-		5D2951C7619B8DA90AC926DF8BCBED50 /* Sources */ = {
+		24EAEAFB8FA95BAB82AD3D55C2297054 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				12351407BC82CDE9340C0CA847F1DDEC /* Pods-Gallopinto Calendar Cuidador-dummy.m in Sources */,
+				1DD11C7EFBD9176D4424F5FDA58D3865 /* Pods-Gallopinto Calendar Cuidador-dummy.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		891C8ABD83BBAD269E93EEC78A5EBB90 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		C641AB3AC8BEA25E59040E2561645BC9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = "AppCenter-AppCenterDistributeResources";
+			target = A7D314048925F585A0FE54F729B09D3D /* AppCenter-AppCenterDistributeResources */;
+			targetProxy = 246BBC4E91B299496B21C595C8513DB6 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
 		1EE19F5DD95931924296F637BF18BD8F /* Debug */ = {
@@ -228,28 +412,7 @@
 			};
 			name = Debug;
 		};
-		1FBFD4E8765D0482BE724E2FEB7900D0 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = FB6D8EC9A113DFA073F83E6F82440280 /* Pods-Gallopinto Calendar Cuidador.debug.xcconfig */;
-			buildSettings = {
-				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				MACH_O_TYPE = staticlib;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		DB0D15596F129835402BA1E757717889 /* Release */ = {
+		4CF95ED64EFF979BFDA3F754FEEA3B10 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E767DD138AFFF60AE4B4C12E646C882B /* Pods-Gallopinto Calendar Cuidador.release.xcconfig */;
 			buildSettings = {
@@ -268,6 +431,36 @@
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		A028DFAAE5C5118B44B6399AC6C04C02 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/AppCenter";
+				INFOPLIST_FILE = "Target Support Files/AppCenter/ResourceBundle-AppCenterDistributeResources-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_NAME = AppCenterDistributeResources;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Debug;
+		};
+		E2C3316E04284EF57E878324925DBD5F /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/AppCenter";
+				INFOPLIST_FILE = "Target Support Files/AppCenter/ResourceBundle-AppCenterDistributeResources-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_NAME = AppCenterDistributeResources;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
 			};
 			name = Release;
 		};
@@ -329,23 +522,53 @@
 			};
 			name = Release;
 		};
+		F4CC4699658E21AEFB22F1BBE029EE4F /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = FB6D8EC9A113DFA073F83E6F82440280 /* Pods-Gallopinto Calendar Cuidador.debug.xcconfig */;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = NO;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				MACH_O_TYPE = staticlib;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		16AA3EB5B1DAD02F5BBDFF09107CFDB1 /* Build configuration list for PBXNativeTarget "Pods-Gallopinto Calendar Cuidador" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				1FBFD4E8765D0482BE724E2FEB7900D0 /* Debug */,
-				DB0D15596F129835402BA1E757717889 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				1EE19F5DD95931924296F637BF18BD8F /* Debug */,
 				F4568DEE257655D290C2B9CEAB37C934 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6C822ADC178B69D4894C0033C5BE492A /* Build configuration list for PBXNativeTarget "AppCenter-AppCenterDistributeResources" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				A028DFAAE5C5118B44B6399AC6C04C02 /* Debug */,
+				E2C3316E04284EF57E878324925DBD5F /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		A4F8D045071371B41DC82DF61CE51E83 /* Build configuration list for PBXNativeTarget "Pods-Gallopinto Calendar Cuidador" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F4CC4699658E21AEFB22F1BBE029EE4F /* Debug */,
+				4CF95ED64EFF979BFDA3F754FEEA3B10 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
