@@ -246,7 +246,11 @@
 		"err_actual_title":"Error",
 		"err_actual_msg": "El evento que intentas editar o eliminar ya fue sincronizado por los dispositivos senior. No es posible alterarlo",
 		"err_actual_title_edit":"Advertencia",
-		"err_actual_msg_edit": "Al modificar un evento en curso tendrás que cambiar la hora"
+        "err_actual_msg_edit": "Al modificar un evento en curso tendrás que cambiar la hora",
+        "si":"Si",
+		"no":"No",
+		"err_actual_title_cancel":"Advertencia",
+		"err_actual_msg_cancel":"El evento que intentas editar o eliminar ya fue sincronizado por los dispositivos senior. No es posible eliminarlo pero puedes modificarlo, ¿deseas hacerlo?"
     },
     "perfil": {
         "title": "Mi perfil",

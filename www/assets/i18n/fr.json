@@ -247,7 +247,12 @@
 		"err_actual_title":"Error",
 		"err_actual_msg": "This event has been already listed on the seniors device, you can't modify it.",
 		"err_actual_title_edit":"Warning",
-		"err_actual_msg_edit": "In order to modify an ongoing event you'll have to change the event time"
+        "err_actual_msg_edit": "In order to modify an ongoing event you'll have to change the event time",
+        "si":"Yes",
+		"no":"No",
+		"err_actual_title_cancel":"Warning",
+		"err_actual_msg_cancel":"This event has been already synced on the seniors device, you cannot cancel it but you could modify it, do you want to?"
+
     },
     "perfil": {
         "title": "Mon profil",
